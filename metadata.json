@@ -1,0 +1,5 @@
+{
+  "name": "AI Basic Chart Generator",
+  "description": "Generate beautiful Bar, Line, or Pie charts on any topic using AI. Simply enter a topic, choose a chart type, and let the application visualize the data for you.",
+  "requestFramePermissions": []
+}
